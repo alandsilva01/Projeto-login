@@ -38,7 +38,7 @@ section#login {
 
 section#login > div#imagem {
     display: block;
-    background: #5f2c82 url(../imagens/backcabeca.jpg) no-repeat;
+    background: #5e2b80 url(../imagens/backcabeca.jpg) no-repeat;
     height: 200px;
     background-position: center;
     background-size: cover;
